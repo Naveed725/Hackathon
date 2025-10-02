@@ -263,7 +263,14 @@ input:focus {
   transform: translateY(-2px);
   box-shadow: 0 4px 10px rgba(108, 99, 255, 0.3);
 }
-
+/** footer **/
+.footer {
+    width: auto;
+    height: 100vh;
+    background-color: #574bdb;
+    margin: 100% 30%;
+    display: flex;
+}
 
 
 
